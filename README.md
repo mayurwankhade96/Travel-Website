@@ -2,7 +2,7 @@
 
 <img src=".\assets\images\full-screenshot.png" alt="website main page">
 
-The website is built using HTML, CSS.
+This website is built using HTML, CSS from Harshit Vashisth youtube tutorial.
 
 It contains following pages :
 
